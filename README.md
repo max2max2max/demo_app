@@ -1,0 +1,1 @@
+мое demo_app из [*Ruby on Rails Tutorial*](http://railstutorial.org/) урок №2
